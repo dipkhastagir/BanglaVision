@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset folders
+data/
+output/
+
+# Models
+*.pt
+*.bin
+*.pth
+*.ckpt
+*.safetensors
+
+# Cache
+.cache/
+
+# Images
+*.jpg
+*.png
+*.jpeg
+
+# Videos
+*.mp4
+*.avi
+
+# Large files
+*.zip
+*.tar
